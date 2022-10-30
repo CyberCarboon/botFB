@@ -21,6 +21,11 @@ $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
+$ pip install pytube
+$ pip install pyqrcode
+$ pip install gdown
+$ pip install requests
+$ pip install gtts
 $ git clone https://github.com/CyberCarboon/botFB
 $ ls
 $ cd botFB
@@ -33,12 +38,6 @@ $ cd botFB
 $ ls
 $ git pull
 $ python bot.py
-$ pip install pyshorteners
-$ pip install pytube
-$ pip install pyqrcode
-$ pip install gdown
-$ pip install requests
-$ pip install gtts
 ```
 ## Kunjungan Profil
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon" />
